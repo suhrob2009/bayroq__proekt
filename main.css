@@ -1,0 +1,23 @@
+.form-control{
+    width: 480px;
+    
+}
+.container-fluid {
+column-gap: 750px;
+}
+.container{
+    flex-wrap: wrap;
+    column-gap: 40px;
+    row-gap: 40px;
+}
+.navbar-brand{
+    color: #111517;
+font-family: Nunito Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.bootstrap{
+    row-gap: 20px;
+}
